@@ -1,6 +1,6 @@
 # EulerPractice
 
-This is the solution to #4 at projecteuler.net.
+This is the solution to #5 at projecteuler.net.
 
 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
 
