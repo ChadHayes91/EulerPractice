@@ -1,7 +1,7 @@
 # EulerPractice
 
-This is the solution to #3 at projecteuler.net. The hardest part of this problem is creating a solution that runs quickly (since you try and find the prime factors of a number a little above 60 billion).
+This is the solution to #4 at projecteuler.net.
 
-The prime factors of 13195 are 5, 7, 13 and 29.
+A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
 
-What is the largest prime factor of the number 600851475143 ?
+Find the largest palindrome made from the product of two 3-digit numbers.
