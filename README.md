@@ -1,7 +1,7 @@
 # EulerPractice
 
-This is the solution to #5 at projecteuler.net.
+This is the solution to #7 at projecteuler.net.
 
-2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
 
-What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+What is the 10 001st prime number?
