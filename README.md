@@ -4,7 +4,7 @@ This is the solution to #6 at projecteuler.net.
 
 The sum of the squares of the first ten natural numbers is,
 
-12 + 22 + ... + 102 = 385
+1^2 + 2^2 + ... + 10^2 = 385
 The square of the sum of the first ten natural numbers is,
 
 (1 + 2 + ... + 10)^2 = 55^2 = 3025
