@@ -2,6 +2,8 @@
 
 This is the solution to #6 at projecteuler.net.
 
+The problem is:
+
 The sum of the squares of the first ten natural numbers is,
 
 1^2 + 2^2 + ... + 10^2 = 385
